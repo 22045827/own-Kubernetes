@@ -3,7 +3,7 @@ recommend.yaml文件
 vim recommend.yaml
 :/containers
 - --token-ttl=604800
-- - --a
+ - a
 
 
 git push
