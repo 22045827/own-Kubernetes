@@ -3,3 +3,7 @@ recommend.yaml文件
 vim recommend.yaml
 :/containers
 - --token-ttl=604800
+
+
+git push
+ssh-keygen -t rsa -C "your.email@example.com" -b 4096
